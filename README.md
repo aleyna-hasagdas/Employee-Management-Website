@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
 
 Make sure you have Node.js and npm installed on your machine. 
 
-Clone this repository: git clone https://github.com/your-username/Employee-Management-Website-Backend.git 
+Clone this repository: git clone https://github.com/aleyna-hasagdas/Employee-Management-Website-Backend.git 
 
 Navigate to the project directory: cd Employee-Management-Website 
 
